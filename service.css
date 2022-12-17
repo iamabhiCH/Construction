@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.service-img {
+    width: 100%;
+    height: 85vh;
+}
+.items0{
+    border: 2px solid black;
+    color: aqua;
+    background-color: black;
+    font-size: 20px;
+}
+.items1 ul li{
+    color: aqua;
+    background-color: black;
+    font-size: 20px;
+}
+.items2 ul li{
+    color: aqua;
+    background-color: black;
+    font-size: 20px;
+}
+footer{
+    padding:24px;
+    text-align:center;
+    box-shadow: rgb(0 0 0 / 24%)0px 3px 8px;
+    font-weight:bold;
+    background-color: black;
+    color: white;
+} 

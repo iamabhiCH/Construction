@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Fira sans', sans-serif;
+}
+
+.about-img {
+    margin-left: 5px;
+
+    width: 98vw;
+    height: 90vh;
+
+}
+.p1{
+        margin-top: 20px;
+        margin-left: 75px;
+        font-size: 25px;
+        letter-spacing: 3px;
+        color: black;
+        margin-right: 75px;
+        margin-bottom: 20px;
+}
+footer{
+    padding:24px;
+    text-align:center;
+    box-shadow: rgb(0 0 0 / 24%)0px 3px 8px;
+    font-weight:bold;
+    background-color: black;
+    color: white;
+} 
